@@ -1,3 +1,4 @@
 # otto-vogel.github.io
 
-this is a readme file
+This is the homepage for the blog. 
+Now I write links.
