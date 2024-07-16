@@ -2,7 +2,7 @@
 layout: post
 title: "Heterodox Economics Reading List"
 author: "Anarchist Arborist" 
-date: 2024-06-07 12:00:00
+date: 2021-06-29 12:00:00
 tags: reading list, theory, guest author, political economy
 ---
 
