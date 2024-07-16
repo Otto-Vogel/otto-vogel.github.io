@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "Lesser-Known Anarchist and Anarchics Reading List"
 author: "Anarchist Arborist"
-date: 2024-06-12 12:00:00
+date: 2021-09-12 12:00:00
 tags: reading list, guest author, theory, anarchism
 ---
 
