@@ -2,5 +2,6 @@ theme: jekyll-theme-minimal
 title: Adequate Ideas
 description: Queer Theory, Political Economy, and Life Beyond the State
 
+#Cramdown is needed for mathjax to work. 
 markdown: kramdown
 
