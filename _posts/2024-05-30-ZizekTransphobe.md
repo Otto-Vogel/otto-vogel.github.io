@@ -218,3 +218,4 @@ There are a number of open roads for a criticism of this book to take.
 -   His account of Quantum Mechanics is that of an undergrad who read one or two books and proceeded to talk about it while smoking pot.
 -   What exactly makes Žižek a "materialist" in any sensible sense is unclear. 
 
+---
