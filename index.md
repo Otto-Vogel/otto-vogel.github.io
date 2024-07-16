@@ -10,4 +10,4 @@ permalink: /
 Here we talk about queer theory, political economy, and life beyond the state. There may also be discussions on things I find irritating, and probably some guest posts. 
 
 
-Note that the reading lists are backdated. 
+Note that the reading lists are backdated, as AA asked me to take over ownership of them. 
