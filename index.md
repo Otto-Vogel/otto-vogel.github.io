@@ -1,6 +1,7 @@
 ---
-title: Adequate Ideas
+title: "Adequate Ideas"
 layout: home
+author: "Otto Vogel"
 permalink: /
 ---
 
