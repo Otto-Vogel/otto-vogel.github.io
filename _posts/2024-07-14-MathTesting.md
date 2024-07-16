@@ -7,6 +7,11 @@ tags: meta, debug
 usemathjax: true
 ---
 
-TEST TEST MC TEST TEST
+Testing
 
-$$x^2-1=f(x)-g(x)$$
+Display:
+$$
+x^2-1=f(x)-g(x)
+$$
+
+Inline $x^2$ inline
