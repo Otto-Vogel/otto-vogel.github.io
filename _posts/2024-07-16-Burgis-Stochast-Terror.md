@@ -80,3 +80,5 @@ There's also a question I have; suppose that the theory of "stochastic violence"
 Now, Burgis isn't required to give a proper definition of "stochastic terrorism"; he thinks the framework is bad. But what Burgis appears to be throwing out is any analysis of how speech can lead towards violence against people. He does this because he thinks that there is a threat that this will infringe on free speech. But I don't think that's a genuine threat. If Burgis could point to State involvement that he *disapproves* of and thinks is due to the framework of "stochastic terrorism", or if he could provide some examples of inconsistent application of the term, maybe this discussion could actually proceed. Instead, Burgis has given us a vague gesturing towards unnamed inconsistency and an underexplained claim that it might infringe upon speech rights by "conflating speech and violence." 
 
 Instead of engaging in little more than reactive disavowal against a framework he does not understand, Burgis would do well to address complexities and ambiguities thrown up for Free Speech by the concept of stochastic terrorism.
+
+---
