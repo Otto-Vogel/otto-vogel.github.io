@@ -6,4 +6,4 @@ permalink: /
 
 # Adequate Ideas
 
-This is the homepage for the blog. A description will go here
+Here we talk about queer theory, political economy, and life beyond the state. There may also be discussions on things I find irritating, and probably some guest posts. 
