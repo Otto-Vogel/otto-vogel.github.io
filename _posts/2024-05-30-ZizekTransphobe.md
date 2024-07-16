@@ -6,7 +6,6 @@ tags: theory, lacanianism, transphobia, critique, žižek
 author: "Otto Vogel"
 usemathjax: true
 ---
-usemathjax:true 
 
 I will admit, I never found Žižek all that impressive. This makes his latest book, _Christian Atheism_ actually impressive. It is worse than I expected. While a lot of academics make a hubbub about how this is Žižek getting involved in the nitty-gritty of christian theology, I don’t think that reveals what this text actually is. This text is paradoxical; it is Žižek repeating himself for the hundredth time and yet he’s gotten worse at it. One might say this comes from a place of consistency or a commitment to principles. But consistency over time requires inconsistency in what you say; it is in the nature of time that things fucking change.
 
