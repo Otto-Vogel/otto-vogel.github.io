@@ -6,10 +6,6 @@ date: 2021-09-12 12:00:00
 tags: reading list, guest author, theory, anarchism
 ---
 
-----------
-
-### Lesser Known Anarchists and Anarchistic Thinkers Reading List
-
 Where applicable I will include links to the articles on the anarchist library or other online repositories. We should also remember the insights of the Invisible Committee:
 
 > It’s up to us to organize the encounters, the circulation, the understandings, the collusions between the local consistencies. The revolutionary task has partly become a task of translation. There is no Esperanto of revolt. It’s not up to the rebels to learn to speak anarchist; it’s up to the anarchists to become polyglot.
