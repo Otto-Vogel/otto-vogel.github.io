@@ -33,7 +33,8 @@ We also find Žižek failing to understand dynamics in India later in this same 
 This book is deliberately Žižek's; he has written it in a way that nobody else could have. With all the manuscripts that were made available to him before publication and all the personal correspondences, he has implicated himself as *uniquely* capable of writing this book.
 
  
- ## The Bad Citation Practices
+## The Bad Citation Practices
+ 
 We should discuss Žižek's citation practices. This is difficult, because his citations are a mess. There is no standardization. Some of these are so bad that it would be unacceptable for an undergrad to make these mistakes. 
 1. 21 citations to Wikipedia. This is not a valid source. 
 2. 8 are citations that could refer to something I could theoretically access, but due to bad citation practices I cannot find them. 
