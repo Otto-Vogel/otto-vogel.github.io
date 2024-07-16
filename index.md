@@ -1,5 +1,7 @@
 ---
+title: Adequate Ideas
 layout: home
+permalink: /
 ---
 
 # Adequate Ideas
