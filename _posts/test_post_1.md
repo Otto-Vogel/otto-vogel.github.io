@@ -3,7 +3,7 @@ layout: post
 title: "test-post"
 permalink: https://otto-vogel.github.io/test-post/
 date: 2020-10-10 00:00:00 
-author: NA
+author: "NA"
 tags: meta, debug
 ---
 
