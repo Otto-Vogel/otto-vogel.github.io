@@ -1,8 +1,8 @@
 ---
 layout: post
+title: "Replying to Burgis about Stochastic Terrorism"
 date: 2024-07-16 14:13:00 
 author: "Otto Vogel"
-title: "Replying to Burgis about Stochastic Terrorism"
 tags: theory, critique, burgis, stochastic terrorism
 ---
 
