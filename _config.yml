@@ -1,6 +1,7 @@
-theme: ET-Jekyll
+theme: jekyll-theme-minimal
 title: Adequate Ideas
 description: Queer Theory, Political Economy, and Life Beyond the State
+editor: Otto Vogel
 
 #Cramdown is needed for mathjax to work. 
 markdown: kramdown
