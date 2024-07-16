@@ -1,23 +1,27 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
-  </head>
-  <body>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/blog/">Blog</a>
-    </nav>
-    <h1>{{ page.title }}</h1>
-    <section>
-      {{ content }}
-    </section>
-    <footer>
-      &copy; to me
-    </footer>
-  </body>
+
+{%- include top.html -%}
+
+<body class="wrap">
+  {%- include header.html -%}
+
+  {{- content -}}
+
+  {%- include footer.html -%}
+  {%- include anchor_links.html -%}
+  {%- include analytics.html -%}
+  {%- include search/script.html -%}
+  
+  <script>
+  {%- comment -%}
+  // This function is called when the user selects an option from a <select> element.
+  // If the selected option has a valid URL, it changes the window location to that URL.
+  {%- endcomment %}
+  const navigateToUrl = (select) => {
+    const url = select.value;
+    url && (window.location.href = url);
+  };
+  </script>
+
   <script type="text/x-mathjax-config">
       MathJax.Hub.Config({
         extensions: [
@@ -43,4 +47,5 @@
       });
     </script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
 </html>
