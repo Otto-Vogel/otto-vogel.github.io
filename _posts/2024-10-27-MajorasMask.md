@@ -2,7 +2,7 @@
 layout: post
 title: "Some Short Thoughts On Majora's Mask"
 date: 2024-10-27 12:13:00
-tags: media, video games, 'Majora’s Mask', trauma, dreams
+tags: media, video games, 'Majora’s Mask', trauma, dreams,
 author: "Otto Vogel"
 ---  
 
