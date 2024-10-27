@@ -85,4 +85,4 @@ I guess this brings us back to Moore’s essay. Where he points to the public pe
 
 ### Immediate Postscript
 
-I got a bit of time after posting this to check through some articles and found one that seem useful. First is Busse's [Fan Labor and Feminism](https://kristinabusse.com/pdf/Busse,%20Kristina,%20ed%20-%20In%20Focus%20-%20Fandom%20and%20Feminism%20Revisited%20(CJ%202015).pdf), which touches on both the labour/class question and the gender question. Even if it doesn't provide exactly what you might be looking for, check the citations, I bet there's something there. 
+I got a bit of time after posting this to check through some articles and found one that seem useful, Busse's [Fan Labor and Feminism](https://kristinabusse.com/pdf/Busse,%20Kristina,%20ed%20-%20In%20Focus%20-%20Fandom%20and%20Feminism%20Revisited%20(CJ%202015).pdf), which touches on both the labour/class question and the gender question. Even if it doesn't provide exactly what you might be looking for, check the citations, I bet there's something there. 
