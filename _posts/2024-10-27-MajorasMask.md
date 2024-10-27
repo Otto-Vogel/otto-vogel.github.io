@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Some Short Thoughts On Majora's Mask"
+title: "Some Short Thoughts on Majora's Mask"
 date: 2024-10-27 00:01:00
 author: "Otto Vogel"
 tags: media, video games, trauma, dreams
----  
+---
 
-<b> You've met with a terrible fate, haven't you? </b>
+**You've met with a terrible fate, haven't you?**
 
 *Majora's Mask* is a thematically "deep" game, in a way I haven't seen in many other games, especially in modern games coming out of Nintendo. There's a lot to talk about, a lot that doesn't interest me; what I care about is on the one side, what it can tell us about Link -- a traumatized child, put through a horrible, unique and inexplicable experience -- and the lands of Termina -- a strange, otherworldly double of Hyrule. I've just started playing it, so these thoughts are mostly questions with some provisional answers. 
 
