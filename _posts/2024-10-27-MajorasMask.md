@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some Short Thoughts On Majora's Mask"
-date: 2024-10-27 12:00:00
+date: 2024-10-27 00:01:00
 tags: media, video games, trauma, dreams
 author: "Otto Vogel"
 ---  
