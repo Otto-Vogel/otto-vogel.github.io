@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Fandom Capitalism"
+title: "Fandom Capitalism: Some Errant Thoughts"
 date: 2024-10-27 00:00:00
 tags: theory, fandom, polecon, thoughts, Alan Moore
 author: "Otto Vogel"
 ---
-
-# Fandom Capitalism: Some Errant Thoughts
-
   
 
 I just read [Alan Moore’s recent article from the Guardian](https://www.theguardian.com/books/2024/oct/26/fandom-has-toxified-the-world-watchmen-author-alan-moore-on-superheroes-comicsgate-and-trump)[^Source] and I have some thoughts.
