@@ -82,3 +82,7 @@ Within capitalism, when you spend money on something “as a consumer”, you ex
   
 
 I guess this brings us back to Moore’s essay. Where he points to the public performance of reactionaries like Donald Trump and Boris Johnson, I instead would point to the dynamics of _entitlement_. Trump supporters feel themselves entitled to a particular form of the world, an imagined historical place where there were they were allowed to be casually racist, where the government seemed to be serving _them_ in specific, where they felt in control of the things in the world around them. If your identity is tied into a community you feel like you should _control_, then any sort of changes to that community feel like a personalized threat.
+
+### Immediate Postscript
+
+I got a bit of time after posting this to check through some articles and found one that seem useful. First is Busse's [Fan Labor and Feminism](https://kristinabusse.com/pdf/Busse,%20Kristina,%20ed%20-%20In%20Focus%20-%20Fandom%20and%20Feminism%20Revisited%20(CJ%202015).pdf), which touches on both the labour/class question and the gender question. Even if it doesn't provide exactly what you might be looking for, check the citations, I bet there's something there. 
