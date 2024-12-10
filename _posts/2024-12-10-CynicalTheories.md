@@ -6,9 +6,7 @@ tags: theory, critique, James Lindsay, Helen Pluckrose, essay, book review
 author: "Otto Vogel"
 ---
 
-**Note: I'm having difficulty with some formatting of footnotes. Please be patient while i find time and energy to fix them**
-
-Publication Note: I wrote this a while back, and did it up mostly in LaTeX. This means I had to spend a few hours reformatting the entire thing, especially the citations; that's the main reason it might seem a little outdated. One footnote has been added to expand on a point concerning Derrida and Wittgenstein. 
+Publication Note: I wrote this a while back, and did it up mostly in LaTeX. This means I had to spend a few hours reformatting the entire thing, especially the citations; that's the main reason it might seem a little outdated. One footnote has been added to expand on a point concerning Derrida and Wittgenstein. Also there might be some small errors here and there in typesetting; I ask for your forgiveness with those.
 
 ## Introduction
 
