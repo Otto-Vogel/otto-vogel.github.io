@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "*Cynical Theories* is a profoundly unserious book"
-date: 2024-12-10 19:17:40
+date: 2024-12-10 12:17:40
 tags: theory, critique, James Lindsay, Helen Pluckrose, essay, book review
 author: "Otto Vogel"
 ---
