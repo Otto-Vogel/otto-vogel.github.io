@@ -42,7 +42,6 @@ I’m reminded of what Jacques Derrida said about the previous generation of bum
 
 > Sometimes, for fun, I also take seriously the symptoms of a campaign, or even of a hunt, in which badly trained horsemen sometimes have trouble identifying the prey. And initially the field.[^Derrida2005_71]
 
-
 And so, just for fun, let’s try to take Pluckrose and Lindsay seriously. We will find a pair of hunters who have found their field, found their prey, but seem to think that one can hunt with a fork. And who seem to think that by dressing as vegetarians, we won’t see what they’re trying to do.
 
 ## History and Oedipalization
@@ -60,15 +59,13 @@ This use of Liberalism to deny how Black people have fought for their own libera
 
 >	Their overall message was strongly (if imperfectly) liberal, individual, and universal, and it succeeded by appealing to empathy and fairness. "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin, but by the content of their character," said Dr. Martin Luther King Jr., appealing to white Americans’ pride in their country as the Land of Opportunity and their sense of fairness, and making common cause with them in their hopes for the next generation.[^CynThe_258]
 
-
-
 Like this is fucking rote by now. It’s a goddamn script. A conservative cites that one part of MLK Jr.’s I Have a Dream speech. I cite the *Letter from a Birmingham Jail* in reply:
 
->	I have almost reached the regrettable conclusion that the Negro’s great stumbling block in the stride toward freedom is not the White Citizens Councillor or the Ku Klux Klanner but the white moderate who is more devoted to order than to justice; who prefers a negative peace which is the absence of tension to a positive peace which is the presence of justice; who constantly says, "I agree with you in the goal you seek, but I can’t agree with your methods of direct action"; who paternalistically feels that he can set the timetable for another man’s freedom; who lives by the myth of time; and who constantly advises the Negro to wait until a "more convenient season." Shallow understanding from people of good will is more frustrating than absolute misunderstanding from people of ill will. Lukewarm acceptance is much more bewildering than outright rejection.[^KingLetter]
+>I have almost reached the regrettable conclusion that the Negro’s great stumbling block in the stride toward freedom is not the White Citizens Councillor or the Ku Klux Klanner but the white moderate who is more devoted to order than to justice; who prefers a negative peace which is the absence of tension to a positive peace which is the presence of justice; who constantly says, "I agree with you in the goal you seek, but I can’t agree with your methods of direct action"; who paternalistically feels that he can set the timetable for another man’s freedom; who lives by the myth of time; and who constantly advises the Negro to wait until a "more convenient season." Shallow understanding from people of good will is more frustrating than absolute misunderstanding from people of ill will. Lukewarm acceptance is much more bewildering than outright rejection.[^KingLetter]
 
 Like, Dude, this is obvious. Using King to argue for colorblindness is just dishonest and clearly dishonest at that. Pluckrose and Lindsay aren’t serious, they **can’t** be serious. They know they’re not serious; look at the footnote that accompanies their attempt to use this quote:
 
->	Of note, critical race Theorists sometimes consider this quote as a cherry-picked example of King’s thought that white people use to control black people who espouse critical race Theory or who criticize "whiteness.”[^CynThe_322]
+>Of note, critical race Theorists sometimes consider this quote as a cherry-picked example of King’s thought that white people use to control black people who espouse critical race Theory or who criticize "whiteness.”[^CynThe_322]
 
 Let’s be clear, I know this is a cherry-picked quote, ‘cause it’s fucking obvious. I don’t care about allegations of ‘control.’ It’s not really about control; reactionaries don’t really use discourse in that way to control radical movements. No, this is about making people who oppose modern movements for racial equality feel better, like they’re siding with King. It’s so obviously preaching to the choir and dishonest that they fucking said as much in an endnote! They say nothing about how it isn’t cherry-picked. They say nothing about other sources that argue King thought what they say he thought.
 
@@ -83,7 +80,6 @@ Dick didn’t give a shit about Mommy and Daddy in that moment; he was playing t
 
 
 The idea of queer people demanding the ability to construct their own publics, their own ways of living with each other—maybe not married, maybe in something other than a "family," their own ways of living without having to justify themselves to straight society or "convince anxious social conservatives that they had no ’agenda’ to destroy the family, heterosexuality, masculinity, or femininity"[^CynThe_260] is incomprehensible to Pluckrose and Lindsay. No, queer activism must have always been focused on merely "decriminalizing homosexuality" and convincing people that they were "normal." The bricks thrown at Stonewall, that roving streetfight that lasted several days, is forgotten in favour of a revisionist history where liberals were always right, and demands were always phrased in the Oedipal language.
-
 
 This question of language is perhaps best explored through the liberalism they say grounds it.
 
@@ -620,3 +616,4 @@ Wittgenstein once said a philosophy book could be written consisting entirely of
 
 [^added_footnote]: As always with quick summaries, things are more complicated than this. For Wittgenstein, the reality for which our words 'stand' is that we have a use for them: claims about numbers stand for our practices of counting. His notion of there being no behind the rules comes from his philosophy of mathematics, in which it is the proof, not something behind the proof, that proves. In our ordinary way with words, it is the lives in which those words are embedded, all sorts of links to the non-linguistic, which give them their meaning. Call this 'correspondence with reality' if you want, but Wittgenstein's point is that what it means to correctly or incorrectly apply a rule is all laid out before us: it does not lie deep beneath the surface of these words, or up above in a transcendent reality like Plato's heaven. Looking behind the practice, behind the rule, like a dog seeking its reflection behind the mirror, is a fool's game. Reality is not found **there**, but in the game itself, in our ordinary going-on with things as we do. In the case of Derrida, things are also more complicated than there simply being no 'outside' to the text. Derrida is a philosopher of **writing** rather than a philosopher of language (as the name of his book, 'Of Grammatology', implies) and when he says there is no outside-text, no outside-writing, he means that the stable reality we wish to find behind our words is suffused with the same interplay of presence and absence as any text is. It cannot function as an origin, as an authority outside play, because it too is nothing but writing. 
 
+[^Hobbes1996_6.20_emph]: Hobbes, *Leviathan*, chapter 6, paragraph 20, my emphasis.  
