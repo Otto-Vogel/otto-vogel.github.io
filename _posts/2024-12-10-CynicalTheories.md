@@ -86,20 +86,20 @@ The idea of queer people demanding the ability to construct their own publics, t
 
 This question of language is perhaps best explored through the liberalism they say grounds it.
 
-In the tradition of other recent defenders of Truth and Enlightenment such as the Epsteinly insightful Steven Pinker of, Pluckrose and Lindsay are an example of what political scientist Jeremy Fortier[^Fortier2018] terms ‘Hobbesian Liberalism’, a philosophical system which reverses the Aristotelian dictum that man is a political animal and instead says humans are not born fit for society.[^Pettit2008_chap7][^Hobbes1983_1.2] We are unsociable by our very nature, but each of us must nonetheless find a way, against our natural inclinations, to "accommodate [ourselves] to the rest”[^Hobbes1996_15.17] if we are to have any hope of living in a peaceful society. To make the connection clear; Hobbesian liberalism demands Oedipalization as a prerequisite for "civil society."
+In the tradition of other recent defenders of Truth and Enlightenment such as the Epsteinly insightful Steven Pinker of, Pluckrose and Lindsay are an example of what political scientist Jeremy Fortier[^Fortier2018] terms ‘Hobbesian Liberalism’, a philosophical system which reverses the Aristotelian dictum that man is a political animal and instead says humans are not born fit for society.[^Pettit2008_chap7][^Hobbes1983_1-2] We are unsociable by our very nature, but each of us must nonetheless find a way, against our natural inclinations, to "accommodate [ourselves] to the rest”[^Hobbes1996_15-17] if we are to have any hope of living in a peaceful society. To make the connection clear; Hobbesian liberalism demands Oedipalization as a prerequisite for "civil society."
 
 
 The terms aren’t meant to be read morally; "unsociable" isn’t just a substitute for "bad" or "evil." It’s intended as a naturalistic claim about human nature. ‘Unsociable’ simply means that humans are naturally disagreeable and, as a result, prone to conflict and violence.[^Pinker2011_2][^Hobbes1996_13] The Hobbesian Liberal considers "our natural human psychology” to be "discordant and quarrelsome”, as something which inevitably "[draws] us into self destructive patterns of behavior”.[^Fortier2018_476] Society and community are not natural products of humans doing what they do; they are something we have to work for against our naturally unsociable inclinations, hard won and easily lost. "Sociability is [. . .] an achievement, an ethos that has to be developed and worked at, even though it runs contrary to many of our most natural human instincts.”[^Fortier2018_483]
 
 
-But why are we supposedly so disagreeable? Put simply: it’s because we can talk. Unlike the humble bee or the industrious ant, creatures that (according to Hobbes, anyway) live peacefully together and are naturally sociable, [^Hobbes1996_17.6][^Hobbes1994_19.5] humans have the power of speech. With speech comes reason, but at a terrible cost, a terrible risk. We gain subjective experience of the world and, as such, the external reality we all share ceases to hang together harmoniously in quite the way is does for a bee or ant colony:
+But why are we supposedly so disagreeable? Put simply: it’s because we can talk. Unlike the humble bee or the industrious ant, creatures that (according to Hobbes, anyway) live peacefully together and are naturally sociable, [^Hobbes1996_17-6][^Hobbes1994_19-5] humans have the power of speech. With speech comes reason, but at a terrible cost, a terrible risk. We gain subjective experience of the world and, as such, the external reality we all share ceases to hang together harmoniously in quite the way is does for a bee or ant colony:
 
-> For though the nature of that we conceive, be the same; yet the diversity of our reception of it, in respect of different constitutions of body, and prejudices of opinion, gives every thing a tincture of our passions[^Hobbes1996_5.24]
+> For though the nature of that we conceive, be the same; yet the diversity of our reception of it, in respect of different constitutions of body, and prejudices of opinion, gives every thing a tincture of our passions[^Hobbes1996_5-24]
 
 
-We all live in the same reality, but, because of our differing personalities and circumstances, see it slightly differently and, more importantly, make different value judgements about this otherwise shared reality. Bees cannot choose not to go out for pollen today because they find flowers repulsive, but humans can. Our "private judgements may differ, and beget controversy.”[^Hobbes1994_29.8] This controversy threatens the social order; the cacophony of different voices threatens to shake society to dust.
+We all live in the same reality, but, because of our differing personalities and circumstances, see it slightly differently and, more importantly, make different value judgements about this otherwise shared reality. Bees cannot choose not to go out for pollen today because they find flowers repulsive, but humans can. Our "private judgements may differ, and beget controversy.”[^Hobbes1994_29-8] This controversy threatens the social order; the cacophony of different voices threatens to shake society to dust.
 
-For Hobbes, language is an inherently shared activity through which we use stable concepts to engage with the world,[^Hobbes1996_4] but this is constantly threatened by a problem of indexicality, that is, a question of where the meaning of words comes from. He thinks it a requirement of language that we share in index in common and all track the same meaning with the same words, but that we are driven by our nature to index the meaning of many words, especially those involving judgements such as ‘good’ or ‘right’, to our own subjective standpoint.[^Hobbes1996_6.7] Thus we mistakenly think we are making an objective judgement to which we can hold others to account when we call something ‘right’ or ‘wrong’, but are speaking only from our own values, values that we are inclined to think of as morally superior.[^Pinker2011_84,283,382,622][^Fortier2018_465-466] Either that, or we recognise the indexicality problem but have no natural way of resolving the resulting differences in practical dispositions,[^Pettit2008_86] for competing subjectivities cannot come to a conclusion about who is right. Both options lead to a conflict that cannot be resolved and, ultimately, violence. For the Hobbesian liberal, we need to avoid this happening. As such, "the task of government must be to shape how citizens understand themselves, to socialize them, making them less assertive, less attached to pride and glory."[^Fortier2018_472]
+For Hobbes, language is an inherently shared activity through which we use stable concepts to engage with the world,[^Hobbes1996_4] but this is constantly threatened by a problem of indexicality, that is, a question of where the meaning of words comes from. He thinks it a requirement of language that we share in index in common and all track the same meaning with the same words, but that we are driven by our nature to index the meaning of many words, especially those involving judgements such as ‘good’ or ‘right’, to our own subjective standpoint.[^Hobbes1996_6-7] Thus we mistakenly think we are making an objective judgement to which we can hold others to account when we call something ‘right’ or ‘wrong’, but are speaking only from our own values, values that we are inclined to think of as morally superior.[^Pinker2011_84-283-382-622][^Fortier2018_465-466] Either that, or we recognise the indexicality problem but have no natural way of resolving the resulting differences in practical dispositions,[^Pettit2008_86] for competing subjectivities cannot come to a conclusion about who is right. Both options lead to a conflict that cannot be resolved and, ultimately, violence. For the Hobbesian liberal, we need to avoid this happening. As such, "the task of government must be to shape how citizens understand themselves, to socialize them, making them less assertive, less attached to pride and glory."[^Fortier2018_472]
 
 
 
@@ -109,7 +109,7 @@ Words, especially morally charged words, therefore need to be indexed to somethi
 Hobbes himself wanted to give his Sovereign not just political but linguistic authority: it is the role of the Sovereign to establish terms with common meanings and to enforce the consistency and completeness of them so that humans, disagreeable creatures that we are, have some common and stable ground by which to orient ourselves.[^Pettit2008_121] Giving the government control over language is not something any Liberal could support; the Hobbesian Liberal is so named because they agree with his theory of human nature, not with his solution: they are Hobbesian, but also Liberal. As such they must find a different solution to this pressing problem of social conflict. Hobbes’ contemporaries in the field of Renaissance rhetoric studies sought to solve this problem by indexing words to the order of nature,[^Skinner2002_124ff] that is, to the implicit authority of science. The world itself keeps meaning consistent, for reality is nothing but reality; it cannot change its mind. In objective reality we can find the common and constant measure necessary to give our words stability. Hobbesian Liberalism accepts Hobbes’ claims about language and conflict but rejects his political solution in favour of this naturalist one. As Pluckrose and Lindsay say, "society [is] formed of individuals interacting with universal reality" which is "a *stable* reality that we can discuss straightforwardly”.[^CynThe_29-and-108-emph] We must give over language to the authority of objective reality. Civilization as a project demands it.
 
 
-Outside the rule of such authority is "the empire of the passions, war, fear, poverty, nastiness, solitude, barbarity, ignorance, savagery”, while within it is "the empire of reason, peace, security, wealth, splendour, society, good taste, the sciences and goodwill.”[^Hobbes1983_10.1] Were it not for the postmodern snakes in the garden, those serpents with the forked tongues who speak of structural oppression and marginalization, this Liberal paradise would continue into the future to develop morally and scientifically within the safety of its own walls and by the power of its own principles, a shining city upon a hill at the end of history.
+Outside the rule of such authority is "the empire of the passions, war, fear, poverty, nastiness, solitude, barbarity, ignorance, savagery”, while within it is "the empire of reason, peace, security, wealth, splendour, society, good taste, the sciences and goodwill.”[^Hobbes1983_10-1] Were it not for the postmodern snakes in the garden, those serpents with the forked tongues who speak of structural oppression and marginalization, this Liberal paradise would continue into the future to develop morally and scientifically within the safety of its own walls and by the power of its own principles, a shining city upon a hill at the end of history.
 
 We can now see why Pluckrose and Lindsay consider postmodernism such a threat to society. Postmodernism, they argue, indexes judgement of right and wrong to mere standpoints: the exact thing that Hobbes warns leads to conflict. Worse, by reducing truth to a language game, it not only gets rid of reality, our impartial judge, but by turning everything into a matter of language it enhances the cause of human conflict, thus making the problem of our nature worse while jettisoning the solution. It’s letting those fools and madmen get away with whatever they want!
 
@@ -520,11 +520,11 @@ Wittgenstein once said a philosophy book could be written consisting entirely of
 
 [^Pettit2008_chap7]: Pettit, *Made with words*, chapter 7.
 
-[^Hobbes1983_1.2]: Hobbes, *De cive*, chapter 1, paragraph 2
+[^Hobbes1983_1-2]: Hobbes, *De cive*, chapter 1, paragraph 2
 
-[^Hobbes1996_15.17]: Hobbes, *Leviathan*, chapter 15, paragraph 17.
+[^Hobbes1996_15-17]: Hobbes, *Leviathan*, chapter 15, paragraph 17.
 
-[^Hobbes1983_10.1]: Hobbes, *De cive*, chapter 10, paragraph 1
+[^Hobbes1983_10-1]: Hobbes, *De cive*, chapter 10, paragraph 1
 
 [^Fortier2018_483]: Fortier, "On Steven Pinker's Hobbesian Liberalism", p. 483.
 
@@ -534,21 +534,21 @@ Wittgenstein once said a philosophy book could be written consisting entirely of
 
 [^Fortier2018_476]: Fortier, "On Steven Pinker's Hobbesian Liberalism", p. 476
 
-[^Hobbes1996_17.6]: Hobbes, *Leviathan*, chapter 17, paragraph 6
+[^Hobbes1996_17-6]: Hobbes, *Leviathan*, chapter 17, paragraph 6
 
 [^Hobbes1996_6-20_emph]: Hobbes, *Leviathan*, chapter 6, paragraph 20, my emphasis.
 
-[^Hobbes1994_19.5]: Hobbes, *The elements of law, natural and politic*, chapter 19, paragraph 5
+[^Hobbes1994_19-5]: Hobbes, *The elements of law, natural and politic*, chapter 19, paragraph 5
 
-[^Hobbes1996_5.24]: Hobbes, *Leviathan*, chapter 5, paragraph 24
+[^Hobbes1996_5-24]: Hobbes, *Leviathan*, chapter 5, paragraph 24
 
-[^Hobbes1994_29.8]: Hobbes, *The elements of law, natural and politic*, chapter 29, paragraph 8
+[^Hobbes1994_29-8]: Hobbes, *The elements of law, natural and politic*, chapter 29, paragraph 8
 
 [^Hobbes1996_4]: Hobbes, *Leviathan*, chapter 4
 
-[^Hobbes1996_6.7]: Hobbes, *Leviathan*, chapter 6, paragraph 7
+[^Hobbes1996_6-7]: Hobbes, *Leviathan*, chapter 6, paragraph 7
 
-[^Pinker2011_84,283,382,622]: Pinker, *The Better Angels of our Nature*, pp. 84, 283, 382, 622
+[^Pinker2011_84-283-382-622]: Pinker, *The Better Angels of our Nature*, pp. 84, 283, 382, 622
 
 [^Fortier2018_465-466]: Fortier, "On Steven Pinker's Hobbesian Liberalism", p. 465-466.
 
@@ -556,7 +556,7 @@ Wittgenstein once said a philosophy book could be written consisting entirely of
 
 [^Fortier2018_472]: Fortier, "On Steven Pinker's Hobbesian Liberalism", p. 472
 
-[^Hobbes1996_5.3]: Hobbes, *Leviathan*, chapter 5, paragraph 3
+[^Hobbes1996_5-3]: Hobbes, *Leviathan*, chapter 5, paragraph 3
 
 [^Pettit2008_121]: Pettit, *Made with words*, p. 121
 
