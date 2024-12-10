@@ -113,11 +113,11 @@ Outside the rule of such authority is "the empire of the passions, war, fear, po
 
 We can now see why Pluckrose and Lindsay consider postmodernism such a threat to society. Postmodernism, they argue, indexes judgement of right and wrong to mere standpoints: the exact thing that Hobbes warns leads to conflict. Worse, by reducing truth to a language game, it not only gets rid of reality, our impartial judge, but by turning everything into a matter of language it enhances the cause of human conflict, thus making the problem of our nature worse while jettisoning the solution. It’s letting those fools and madmen get away with whatever they want!
 
-Hobbes tells us that "The Light of humane minds is Perspicuous Words, but by **exact definitions** first snuffed, and then **purged from ambiguity**.”[^Hobbes1996_6.20_emph] The rest of this paragraph continues, echoing a message that Pluckrose and Lindsay repeat throughout their own book, with this:
+Hobbes tells us that "The Light of humane minds is Perspicuous Words, but by **exact definitions** first snuffed, and then **purged from ambiguity**.”[^Hobbes1996_6-20_emph] The rest of this paragraph continues, echoing a message that Pluckrose and Lindsay repeat throughout their own book, with this:
 
-> Reason is the pace; Encrease of Science, the way; and the Benefit of man-kind, the end. And on the contrary […] senslesse and ambiguous words, are like [will-o’-the-wisps] and reasoning upon them, is wandering amongst innumerable absurdities; and their end, **contention, and sedition, or contempt**.[^Hobbes1996_6.20_emph]
+> Reason is the pace; Encrease of Science, the way; and the Benefit of man-kind, the end. And on the contrary […] senslesse and ambiguous words, are like [will-o’-the-wisps] and reasoning upon them, is wandering amongst innumerable absurdities; and their end, **contention, and sedition, or contempt**.[^Hobbes1996_6-20_emph]
 
-[^Hobbes1996_6.20_emph]: Hobbes, *Leviathan*, chapter 6, paragraph 20, my emphasis.  
+[^Hobbes1996_6-20_emph]: Hobbes, *Leviathan*, chapter 6, paragraph 20, my emphasis.  
 
 Hobbes could be speaking directly to Derrida here: the idea of language as an irreducibly ambiguous site of unending play is a dangerous concession to our unsociable nature, one that risks enhancing our differences instead of giving us the needed common ground on which to meet and adjudicate inevitable conflict. Language must be tied to truth, that is, to direct representation of the world, to the reality that we all share, so that objective reality itself can be our impartial judge and society can flourish.
 
@@ -204,7 +204,7 @@ This is fine as it goes. It seems pretty commonsensical, even. We still have the
 
 It might very well be the case that this is how truth works, but now we’ve wandered far from common sense and have surrendered our ability to understand truth to academic philosophers, because now we need a detailed philosophical theory of what these ‘facts’ are, how they are held together, how they are different from the objects that compose them, the difference between positive and negative facts, and also a philosophical theory about what the ‘correspondence’ relation is and how it works. That seems odd, right? I don’t need a philosopher to explain to me how it’s true that my chair is in the room when I’m right here sitting on it. I know it’s true already.
 
-Speaking of knowing things, there’s actually a larger problem with correspondence theories than this ontological bloat. A correspondence account of truth might lead us to a kind of external world scepticism,[^Marian-or-David_sec.9.2] [^Hornsby1997] that is, the belief that there’s maybe no world ‘out there’ because we can’t get at it from inside our thoughts. When Pluckrose and Lindsay say their interest in truth is about a world being ‘out there’ for science to discover, their devotion to the correspondence theory might actually conflict with this interest.
+Speaking of knowing things, there’s actually a larger problem with correspondence theories than this ontological bloat. A correspondence account of truth might lead us to a kind of external world scepticism,[^Marian-or-David_sec9-2] [^Hornsby1997] that is, the belief that there’s maybe no world ‘out there’ because we can’t get at it from inside our thoughts. When Pluckrose and Lindsay say their interest in truth is about a world being ‘out there’ for science to discover, their devotion to the correspondence theory might actually conflict with this interest.
 
 
 How so? Well, if thought and reality must be linked together such that our thoughts (or speech) can be about reality, can be representations of it, then reality itself must somehow be *thinkable*. What does it mean for the world to be thinkable? Literally just that it is the sort of thing we *can* think, such that we can, as it were, catch reality in our net. It has to be the sort of thing we can *catch* at all. Nets cannot catch water, for example, no matter how accurate we make them. 
@@ -307,7 +307,7 @@ Unlike the philosophically challenged authors of *Cynical Theories*, however, I 
 
 Postmodern theory, they inform us, “promotes the idea that truth is a ‘language game’ and that words, ultimately, only point to other words and can never correspond concretely to reality”,[^CynThe_238] and imply that this makes knowing about the world around us, a basic assumption of science, impossible. 
 
-This quotation actually contains a rather interesting error. It runs together three separate issues—what truth might be, the game analogy for language, and whether signifiers relate to the signified—into a sort of Frankenstein doctrine. If Pluckrose and Lindsay actually understood postmodern philosophy and were not simply trying to make it look silly, this is not an error they would have made. Let’s clear this up. Words referring to other words is Derrida’s concept of *différance*, while ‘language games’ is a concept out of Wittgenstein (borrowed by Lyotard, the real target of Pluckrose and Lindsay here). To be fair, both of these ideas are similar in one key way: they both deny that there is anything outside the rules of language to which the rules of language are answerable. For Wittgenstein, grammar (the rules of meaning and sense), is autonomous, that is, not accountable to any reality: “you can’t get behind the rules, because there isn’t any behind”,[^PG_par.244][^BT_par.184] while for Derrida there is nothing outside text, nothing beyond the play of language with authority over the rules of the game.[^Derrida1997_158] For both philosophers, language is free standing; it has no foundation in being a ‘representation’ of things in reality.[^added_footnote]
+This quotation actually contains a rather interesting error. It runs together three separate issues—what truth might be, the game analogy for language, and whether signifiers relate to the signified—into a sort of Frankenstein doctrine. If Pluckrose and Lindsay actually understood postmodern philosophy and were not simply trying to make it look silly, this is not an error they would have made. Let’s clear this up. Words referring to other words is Derrida’s concept of *différance*, while ‘language games’ is a concept out of Wittgenstein (borrowed by Lyotard, the real target of Pluckrose and Lindsay here). To be fair, both of these ideas are similar in one key way: they both deny that there is anything outside the rules of language to which the rules of language are answerable. For Wittgenstein, grammar (the rules of meaning and sense), is autonomous, that is, not accountable to any reality: “you can’t get behind the rules, because there isn’t any behind”,[^PG_par244][^BT_par184] while for Derrida there is nothing outside text, nothing beyond the play of language with authority over the rules of the game.[^Derrida1997_158] For both philosophers, language is free standing; it has no foundation in being a ‘representation’ of things in reality.[^added_footnote]
 
 Both resist what Derrida called “the instituting question of philosophy”[^Derrida1997_19]: the Socratic ‘What is…?’ (‘tell me friend, what is piety?’). Wittgenstein, while developing what became known as his ‘later’ philosophy, said that his new method was best summed up by saying it was the exact opposite of Socrates.[^BH2005_210] When Socrates asked Euthyphro what piety was, he was seeking after the *essence* of piety, the non-linguistic thing which all examples of piety are examples *of*, or, to put it crudely, the ‘meaning’ of the word, the thing behind language that gives it content. Words, spoken or written, are just random noises or scratches on paper: *something* must give them meaning, for they have none on their own. The traditional account of this ‘something’ is that words represent bits of reality, that the essence of a word is what it *stands for*. Indeed, Pluckrose and Lindsay themselves say this traditional account is nothing but common sense.[^CynThe_40] But both Wittgenstein and Derrida reject this idea that the essence of a word can be found by searching for that thing in the world for which it stands, as if words were little pieces of reality wearing linguistic clothes. Language, instead, is self-animating: there is nothing under the sheet.
 
@@ -321,11 +321,11 @@ All of this is a misunderstanding of what a language game is. To say the rules o
 
 To explain what this means, let’s motivate the game analogy a little more. Why say language is a game? This is just a way of working out the thought we mentioned earlier that words don’t ‘stand for’ objects in reality. The meaning of a word does not reduce to some object which the word stands for, but to a rule for the *use* of the word. Understanding what a word means is understanding the rules for its use. The words we use are meaningful because we use them in a rule-governed way. To illustrate this, let’s turn to the favourite staple of nerdy philosophers: chess. What is the meaning of a pawn? Do pawns represent something outside the game, something that determines which moves are correct for this piece? Of course not, “the pieces do not go proxy for anything. One could really say that the ‘meaning’ of a chess piece is the sum of rules that determine its possible movements”.[^BH2005_47] Understanding a bishop in chess is nothing more than understanding the rules according to which it moves. It is possible to be wrong here, to move a piece in a way that is against the rules, but right and wrong—normative notions—are entirely internal to the rules themselves. What counts as acting in accord with a rule is entirely determined *by the rule*. Whether or not one has gone wrong in a game of chess, and what moves one ought to make to count as playing at all, are questions internal to the system of rules and not imposed from outside—there *is* no content left to impose, we have all we need. Normativity here is free standing: if you move a pawn three squares you are wrong in relation to the rules of chess, but the rules of chess are not themselves right or wrong in relation to anything else. Or, to be clearer, normativity is free standing in relation to *reality*, but it is embedded in our life with language, in human activity. We are only tempted to think of words or signs as ‘dead’ things into which reality must breathe life because we forget that they were never dead at all: they live as we do, as part of *our* lives. Meaning is an *activity*, like a game. Right and wrong, true and false, are artefacts of the game itself and arise from it alone—they are not intelligible notions at all outside the rules of a particular game.
 
-That being said, however, games and reality are not completely separate. We do not play chess with pieces too heavy to lift, or that melt when we try to move them, because it would be **impractical** to do so. And what is practical or not is determined by the kind of world in which we live, including the biology of the kind of creature we are (we can play chess on a flat surface in contrasting shades because of the kind of visual system we have, for example). So reality does have a kind of *causal* connection to the rules of chess. The rules are given a sort of salience, an importance, by the way the world actually is.[^LFM_246][^OC_par.558] If we lived in a different reality, our rules might no longer make any sense, or lose their purpose.[^PI_par.142] For example, in a universe where objects flashed in and out of existence at random and changed spatial position, a chessboard could not work the way it currently does; we could no longer go on playing chess as we did before.[^OC_par.617] But these are not constraints *on* the games, we can create any rules we like. Rather, they are the constraints *within which* our games evolve and within which we construct our rules, the scaffolding within which the rules make sense to have.[^Z_par.350]
+That being said, however, games and reality are not completely separate. We do not play chess with pieces too heavy to lift, or that melt when we try to move them, because it would be **impractical** to do so. And what is practical or not is determined by the kind of world in which we live, including the biology of the kind of creature we are (we can play chess on a flat surface in contrasting shades because of the kind of visual system we have, for example). So reality does have a kind of *causal* connection to the rules of chess. The rules are given a sort of salience, an importance, by the way the world actually is.[^LFM_246][^OC_par558] If we lived in a different reality, our rules might no longer make any sense, or lose their purpose.[^PI_par142] For example, in a universe where objects flashed in and out of existence at random and changed spatial position, a chessboard could not work the way it currently does; we could no longer go on playing chess as we did before.[^OC_par617] But these are not constraints *on* the games, we can create any rules we like. Rather, they are the constraints *within which* our games evolve and within which we construct our rules, the scaffolding within which the rules make sense to have.[^Z_par350]
 
-[^OC_par.617]: Wittgenstein, *On Certainty*, paragraph 617
+[^OC_par617]: Wittgenstein, *On Certainty*, paragraph 617
 
-This is what is meant by there being a distinction between the normative and the causal. The way the world actually is may be the *cause* of our having the rules that we do, but it is not the *ground* for those rules;[^OC_par.474] the rules neither have, nor need, any sort of external grounding. One cannot appeal to physics to explain why it was correct to have moved a piece in chess the way one did; correctness is entirely internal to the rules. But nonetheless if physics were different the rules might also be different, or we might not play any such game. Reality is not *in* the rules, but it *is* the context in which the rules happen. We have not cut ourselves off from the causal (the world) by indexing what is correct (the normative) to rules we created.
+This is what is meant by there being a distinction between the normative and the causal. The way the world actually is may be the *cause* of our having the rules that we do, but it is not the *ground* for those rules;[^OC_par474] the rules neither have, nor need, any sort of external grounding. One cannot appeal to physics to explain why it was correct to have moved a piece in chess the way one did; correctness is entirely internal to the rules. But nonetheless if physics were different the rules might also be different, or we might not play any such game. Reality is not *in* the rules, but it *is* the context in which the rules happen. We have not cut ourselves off from the causal (the world) by indexing what is correct (the normative) to rules we created.
 
 
 Notice that this has nothing to do with relativism. The rules of chess are not my subjective opinion: I can still be *wrong* about *chess*, even though the rules are completely autonomous from reality. Also notice that this does not render anything unknowable. I can still *know* how to *play chess*, even though the rules I know have no foundations and cannot be justified by reference to anything other than themselves, and could in theory be changed at any time. We can, and do, have perfectly intelligible notions of what it means to know something, what it means to be correct or incorrect, and what it means to justify a claim we have made, without giving Reality any normative role in our rules at all.
@@ -337,7 +337,7 @@ But . . . don’t we want our concepts to be useful? If the language of somethin
 
 This question does mark something important. By denying that something called ‘Reality’ has authority over us we might have appeared to be neglecting the fact that science . . .  *works*. That mathematics *works*. That most of our beliefs about the world, in fact, *work*. But we have not neglected this at all. We had a perfectly good explanation of it all along. Recall the point earlier about the rules of chess becoming not false but *impractical* if physics were to change. We have the rules we do because they’re *useful*. But useful is not a normative notion: it does not mean ‘correct’, and it may very well be context dependent or even subjective in a way that ‘objective truth’, by definition, is not. 
 
-Language has been shaped by our reality, cast in its mould, as it were,[^OC_par.558] such that our linguistic rules have a touch of both the arbitrary and the non-arbitrary.[^Z_par.358] There are things about us or about the world that make it **useful** to have a given rule as part of our means of description. Our rules are tools for doing things, for adjusting means to ends, and not attempts at representing reality.[^Rorty2021] But tools that could not do any kind of job would be no tools at all; a chocolate teapot is never anything more than a novelty. Wittgenstein’s charming way of putting this was that the colour of trousers is arbitrary, sure enough, but grass-green trousers would hardly sell (Wittgenstein himself exclusively wore grey trousers). Richard Rorty, whom Pluckrose and Lindsay apparently did not read at all, put it more concretely like this:
+Language has been shaped by our reality, cast in its mould, as it were,[^OC_par558] such that our linguistic rules have a touch of both the arbitrary and the non-arbitrary.[^Z_par358] There are things about us or about the world that make it **useful** to have a given rule as part of our means of description. Our rules are tools for doing things, for adjusting means to ends, and not attempts at representing reality.[^Rorty2021] But tools that could not do any kind of job would be no tools at all; a chocolate teapot is never anything more than a novelty. Wittgenstein’s charming way of putting this was that the colour of trousers is arbitrary, sure enough, but grass-green trousers would hardly sell (Wittgenstein himself exclusively wore grey trousers). Richard Rorty, whom Pluckrose and Lindsay apparently did not read at all, put it more concretely like this:
 
 
 > What is true in pragmatism is that what you talk about depends not on what is real but on what it pays you to talk about. What is true in realism is that most of what you talk about you get right.[^Rorty2000a_374]
@@ -536,7 +536,7 @@ Wittgenstein once said a philosophy book could be written consisting entirely of
 
 [^Hobbes1996_17.6]: Hobbes, *Leviathan*, chapter 17, paragraph 6
 
-[^Hobbes1996_6.20_emph]: Hobbes, *Leviathan*, chapter 6, paragraph 20, my emphasis.
+[^Hobbes1996_6-20_emph]: Hobbes, *Leviathan*, chapter 6, paragraph 20, my emphasis.
 
 [^Hobbes1994_19.5]: Hobbes, *The elements of law, natural and politic*, chapter 19, paragraph 5
 
@@ -564,7 +564,7 @@ Wittgenstein once said a philosophy book could be written consisting entirely of
 
 [^Stirner2017_122]: Stirner, *The unique and its property*, p. 122
 
-[^Marian-or-David_sec.9.2]: David, "The Correspondence Theory of Truth", sec. 9.2
+[^Marian-or-David_sec9-2]: David, "The Correspondence Theory of Truth", sec. 9.2
 
 [^Hornsby1997]: Hornsby "I-The Presidential Address: Truth: The Identity Theory"  
 
@@ -578,9 +578,9 @@ Wittgenstein once said a philosophy book could be written consisting entirely of
 
 [^DnR_134]: Deleuze, *Difference and Repetition*, p. 134 
 
-[^PG_par.244]: Wittgenstein, *Philosophical Grammar*, paragraph 244
+[^PG_par244]: Wittgenstein, *Philosophical Grammar*, paragraph 244
 
-[^BT_par.184]: Wittgenstein, *The Big Typescript*, paragraph 184
+[^BT_par184]: Wittgenstein, *The Big Typescript*, paragraph 184
 
 [^Derrida1997_158]: Derrida, *Of Grammatology*, p. 158 
 
@@ -592,23 +592,23 @@ Wittgenstein once said a philosophy book could be written consisting entirely of
 
 [^LFM_246]: Wittgenstein, *Lectures in the Foundations of Mathematics*, p. 246
 
-[^OC_par.558]: Wittgenstein, *On Certainty*, paragraph 558
+[^OC_par558]: Wittgenstein, *On Certainty*, paragraph 558
 
-[^PI_par.142]: Wittgenstein, *Philosophical Investigations*, paragraph 142
+[^PI_par142]: Wittgenstein, *Philosophical Investigations*, paragraph 142
 
-[^Z_par.350]: Wittgenstein, *Zettel*, paragraph 350
+[^Z_par350]: Wittgenstein, *Zettel*, paragraph 350
 
-[^OC_par.474]: Wittgenstein, *On Certainty*, paragraph 474
+[^OC_par474]: Wittgenstein, *On Certainty*, paragraph 474
 
 [^Huetter-Almerigi2020_2]: Huetter-Almerigi, *Two Forms of Realism*
 
 [^Rorty2000a_376]: Rorty, "Response to Ramberg", p. 376
 
-[^OC_par.558]: Wittgenstein, *On Certainty*, paragraph 558
+[^OC_par558]: Wittgenstein, *On Certainty*, paragraph 558
 
 [^Rorty2021]: Rorty, *Pragmatism as anti-authoritarianism*
 
-[^Z_par.358]: Wittgenstein, *Zettel*, paragraph 358
+[^Z_par358]: Wittgenstein, *Zettel*, paragraph 358
 
 [^Rorty2000a_374]: Rorty, "Response to Ramberg", p. 374
 
