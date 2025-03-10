@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing and Genre"
-date: 2025-02-07 12:26:00
+date: 2025-03-10 00:00:00
 tags: personal, writing, ideas, theory
 author: "Otto Vogel"
 ---
